@@ -1,0 +1,24 @@
+First Name : Fahim
+Last Name : Abrar
+Username : Fuad
+Password : 123
+Mobile Number : 017566
+Ticket Count: 4
+Price : 115.000000
+
+Ticket 1 : 
+   BusSelected : 1 
+   SeatNumber : 1
+     Location : Bashundhara
+Ticket 2 : 
+   BusSelected : 1 
+   SeatNumber : 2
+      Location : Airport
+Ticket 3 : 
+   BusSelected : 1 
+   SeatNumber : 5
+      Location : Farmgate
+Ticket 4 : 
+   BusSelected : 1 
+   SeatNumber : 6
+      Location : Tongi

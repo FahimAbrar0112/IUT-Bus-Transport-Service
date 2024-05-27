@@ -1,0 +1,24 @@
+First Name : A
+Last Name : B
+Username : asif
+Password : 123
+Mobile Number : .15
+Ticket Count: 0
+Price : 0.000000
+
+Ticket 1 : 
+   BusSelected : 0 
+   SeatNumber : 0
+     Location : NULL
+Ticket 2 : 
+   BusSelected : 0 
+   SeatNumber : 0
+      Location : NULL
+Ticket 3 : 
+   BusSelected : 0 
+   SeatNumber : 0
+      Location : NULL
+Ticket 4 : 
+   BusSelected : 0 
+   SeatNumber : 0
+      Location : NULL

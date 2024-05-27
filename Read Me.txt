@@ -1,0 +1,14 @@
+1st: In cmd or power shell past the given command : 
+   
+   gcc .\book.c .\BusList.c .\CarRental.c .\Login.c .\look_LOGIN_SIGNUP.c .\look_Menu.c .\main.c .\MenuBar.c .\Signup.c .\TicketPrice.c  .\Cancel.c  -o App 
+
+
+2nd: In command Line type: 
+   
+   App.exe
+
+then Run it.
+
+
+
+
